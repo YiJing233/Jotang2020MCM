@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {section}{\numberline {2}Assumptions and Notations}{2}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{2}%
+\contentsline {subsection}{\numberline {2.2}Notations}{3}%
+\contentsline {section}{\numberline {3}The best shape of sandcastles}{4}%
+\contentsline {subsection}{\numberline {3.1}Model Construction}{4}%
+\contentsline {subsection}{\numberline {3.2}Model Simulation and Analysis}{9}%
+\contentsline {section}{\numberline {4}The best proportion of sand and water}{11}%
+\contentsline {subsection}{\numberline {4.1}Cohesion between two spheres}{11}%
+\contentsline {subsubsection}{\numberline {4.1.1}Meniscus formation}{11}%
+\contentsline {subsubsection}{\numberline {4.1.2}Liquid bridge model between two particles}{11}%
+\contentsline {subsubsection}{\numberline {4.1.3}Liquid bridge force}{12}%
+\contentsline {subsection}{\numberline {4.2}Optimum stress and sand-water ratio}{13}%
+\contentsline {section}{\numberline {5}Impact of rainwater and model adjustment}{16}%
+\contentsline {subsection}{\numberline {5.1}Effect of water content}{16}%
+\contentsline {subsection}{\numberline {5.2}Effect of water current}{16}%
+\contentsline {subsection}{\numberline {5.3}Effect of the impacting force of water}{19}%
+\contentsline {section}{\numberline {6}The other methods to prolong sandcastles life}{22}%
+\contentsline {subsection}{\numberline {6.1}Compaction}{22}%
+\contentsline {subsection}{\numberline {6.2}Build a wall and dig a moat}{22}%
+\contentsline {subsection}{\numberline {6.3}Curing agent}{22}%
+\contentsline {section}{\numberline {7}An Article to Fun in the sun}{23}%
+\contentsline {section}{References}{25}%
+\contentsline {section}{Appendices for Code and Data}{26}%

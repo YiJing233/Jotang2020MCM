@@ -1,0 +1,12 @@
+@book{batchelor2000introduction,
+  title={An introduction to fluid dynamics},
+  author={Batchelor, Cx K and Batchelor, GK},
+  year={2000},
+  publisher={Cambridge university press}
+}
+@book{white1999fluid,
+  title={Fluid mechanics},
+  author={White, Frank M},
+  year={1999},
+  publisher={McGraw-hill}
+}
